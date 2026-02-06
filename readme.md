@@ -90,7 +90,6 @@ Given customer demographic and interaction data, predict whether a customer will
 Travel-Package-Prediction/
 │
 ├──app
-|   ├──EDA.py   # Streamlit application
 |   └──ml.py    # Streamlit application
 |
 ├── data
@@ -100,7 +99,6 @@ Travel-Package-Prediction/
 |   └── model_building.py
 |
 ├──jupyter notebook
-|   ├── EDA.ipynb
 |   ├── model_building.ipynb
 |   └── Tourisom Domain nkowledge.ipynb
 |
@@ -109,10 +107,6 @@ Travel-Package-Prediction/
 │
 ├── pptx
 |   └──Boosting_travel_package_sales.pptx 
-|
-├── video
-|   ├── EDA video.mp4   
-|   └── Prediction Video.mp4
 |
 ├── pkl/
 │   ├── tourism_model.pkl
