@@ -1,4 +1,4 @@
-```md
+
 # 🌍 Travel Package Purchase Prediction
 
 A **Machine Learning web application** that predicts whether a customer will purchase a travel package based on demographic, behavioral, and pitch-related features.  
