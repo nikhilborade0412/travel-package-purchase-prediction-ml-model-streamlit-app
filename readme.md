@@ -144,7 +144,7 @@ Travel-Package-Prediction/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Travel-Package-Prediction.git
+git clone https://github.com/your-username/travel-package-purchase-prediction-ml-model-streamlit-app.git
 cd Travel-Package-Prediction
 ````
 
